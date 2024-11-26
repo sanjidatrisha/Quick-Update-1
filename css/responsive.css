@@ -1,0 +1,494 @@
+/*css media quries for -galaxy fold screen resolution: 279px to 319px*/
+@media(min-width:279px) and (max-width:319px){
+	/*css start*/
+.container{
+
+width: 95%;
+float: left;
+
+
+}
+.row{
+	width:100%;
+	float:left;
+	padding: 0px 15px;
+
+}
+.col-6{
+	width:100%;
+	float:left;
+}
+.col6{
+	width: 100%;
+	float:left;
+}
+.col-12{
+	width:100%;
+	float:left;
+
+}
+.col-4{
+	width:100%;
+	float:left;
+}
+.logo{
+	display:block;
+	text-align: center;
+}
+.navbar{
+	text-align: center;
+
+}
+.navbar li a{
+	font-size: 10px;
+	margin:10px 0px 0px 15px;
+
+}
+
+.banner{
+	padding: 25px 0px;
+}
+.banner h1{
+	font-size: 24px;
+	line-height: 1.2 em;
+}
+.banner p{
+	font-size: 9px;
+	line-height: 1.7em;
+}
+
+.banner img{
+	width:90%;
+}
+
+.successful{
+	padding: 0px 0px 25px;
+}
+.left-success {
+	text-align: left;
+
+}
+.left-success h1{
+	font-size: 24px;
+	line-height: 1.2 em;
+
+}
+.left-success p{
+	font-size: 9px;
+	line-height: 1.7 em;
+}
+.right-success h1 {
+    font-size: 24px;
+    line-height: 1.2em;
+
+
+	/*css end*/
+
+}
+.feature{
+	padding: 0px 0px 25px;
+}
+
+.feature-inner {
+    width: 83%;
+    float: left;
+    padding: 25px 15px;
+    margin: 0px 0px 15px;
+    text-align: center;
+}
+
+.feature-inner h4{
+	font-size: 14px;
+    line-height: 1.2em;
+}
+
+.feature-inner p{
+	font-size: 9px;
+    line-height: 1.7em;
+}
+
+.footer p{
+
+font-size: 9px;
+    line-height: 1.7em;
+}
+
+
+
+
+	/*css end*/
+
+
+}
+
+/*css media quries for most of the mobile device- 320px to 480px*/
+@media(min-width:320px) and (max-width:480px){
+/*css start*/
+
+.container{
+
+width: 95%;
+float: left;
+
+
+}
+.row{
+	width:100%;
+	float:left;
+	padding: 0px 15px;
+
+}
+.col-6{
+	width:100%;
+	float:left;
+}
+.col6{
+	width: 100%;
+	float:left;
+}
+.col-12{
+	width:100%;
+	float:left;
+
+}
+.col-4{
+	width:100%;
+	float:left;
+}
+.logo{
+	display:block;
+	text-align: center;
+}
+.navbar{
+	text-align: center;
+
+}
+.navbar li a{
+	font-size: 20px;
+	margin:10px 0px 0px 15px;
+
+}
+
+.banner{
+	padding: 50px 0px;
+}
+.banner h1{
+	font-size: 32px;
+	line-height: 1.2 em;
+}
+.banner p{
+	font-size: 11px;
+	line-height: 1.7em;
+}
+
+.banner img{
+	width:90%;
+}
+
+.successful{
+	padding: 0px 0px 30px;
+}
+.left-success {
+	text-align: left;
+
+}
+.left-success h1{
+	font-size: 32px;
+	line-height: 1.2 em;
+
+}
+.left-success p{
+	font-size: 11px;
+	line-height: 1.7 em;
+}
+.right-success h1 {
+    font-size: 32px;
+    line-height: 1.2em;
+
+
+	/*css end*/
+
+}
+.feature{
+	padding: 0px 0px 30px;
+}
+
+.feature-inner {
+    width: 90%;
+    float: left;
+    padding: 40px 15px;
+    margin: 0px 0px 15px;
+    text-align: center;
+}
+
+.feature-inner h4{
+	font-size: 16px;
+    line-height: 1.2em;
+}
+
+.feature-inner p{
+	font-size: 11px;
+    line-height: 1.7em;
+}
+
+.footer p{
+
+font-size: 11px;
+    line-height: 1.7em;
+}
+
+
+
+
+
+
+
+
+/*css media quries for high resolution mobile device and low resolution tab - 481px to 767px*/
+@media(min-width:481px) and (max-width:767px){
+/*css start*/
+.container{
+
+width: 95%;
+float: left;
+
+
+}
+.row{
+	width:100%;
+	float:left;
+	padding: 0px 15px;
+
+}
+.col-6{
+	width:100%;
+	float:left;
+}
+.col6{
+	width: 100%;
+	float:left;
+}
+.col-12{
+	width:100%;
+	float:left;
+
+}
+.col-4{
+	width:100%;
+	float:left;
+}
+.logo{
+	display:block;
+	text-align: center;
+}
+.navbar{
+	text-align: center;
+
+}
+.navbar li a{
+	font-size: 20px;
+	margin:10px 0px 0px 15px;
+
+}
+
+.banner{
+	padding: 55px 0px;
+}
+.banner h1{
+	font-size: 34px;
+	line-height: 1.2 em;
+}
+.banner p{
+	font-size: 12px;
+	line-height: 1.7em;
+}
+
+.banner img{
+	width:90%;
+}
+
+.successful{
+	padding: 0px 0px 35px;
+}
+.left-success {
+	text-align: left;
+
+}
+.left-success h1{
+	font-size: 34px;
+	line-height: 1.2 em;
+
+}
+.left-success p{
+	font-size: 12px;
+	line-height: 1.7 em;
+}
+.right-success h1 {
+    font-size: 34px;
+    line-height: 1.2em;
+
+
+	/*css end*/
+
+}
+.feature{
+	padding: 0px 0px 35px;
+}
+
+.feature-inner {
+    width: 90%;
+    float: left;
+    padding: 45px 20px;
+    margin: 0px 0px 15px;
+    text-align: center;
+}
+
+.feature-inner h4{
+	font-size: 18px;
+    line-height: 1.2em;
+}
+
+.feature-inner p{
+	font-size: 12px;
+    line-height: 1.7em;
+}
+
+.footer p{
+
+font-size: 12px;
+    line-height: 1.7em;
+}
+
+
+
+
+
+	/*css end*/
+
+
+
+}
+
+/*css media quries for high resolution tablet and Mini notebook- 768px to 1024px*/
+@media(min-width:768px) and (max-width:1024px){
+/*css start*/
+
+.container{
+
+width: 95%;
+float: left;
+
+
+}
+.row{
+	width:100%;
+	float:left;
+	padding: 0px 15px;
+
+}
+.col-6{
+	width:100%;
+	float:left;
+}
+.col6{
+	width: 100%;
+	float:left;
+}
+.col-12{
+	width:100%;
+	float:left;
+
+}
+.col-4{
+	width:100%;
+	float:left;
+}
+.logo{
+	display:block;
+	text-align: center;
+}
+.navbar{
+	text-align: center;
+
+}
+.navbar li a{
+	font-size: 22px;
+	margin:10px 0px 0px 15px;
+
+}
+
+.banner{
+	padding: 60px 0px;
+}
+.banner h1{
+	font-size: 36px;
+	line-height: 1.2 em;
+}
+.banner p{
+	font-size: 13px;
+	line-height: 1.7em;
+}
+
+.banner img{
+	width:90%;
+}
+
+.successful{
+	padding: 0px 0px 40px;
+}
+.left-success {
+	text-align: left;
+
+}
+.left-success h1{
+	font-size: 36px;
+	line-height: 1.2 em;
+
+}
+.left-success p{
+	font-size: 13px;
+	line-height: 1.7 em;
+}
+.right-success h1 {
+    font-size: 36px;
+    line-height: 1.2em;
+
+
+	/*css end*/
+
+}
+.feature{
+	padding: 0px 0px 35px;
+}
+
+.feature-inner {
+    width: 98%;
+    float: left;
+    padding: 50px 20px;
+    margin: 0px 0px 15px;
+    text-align: center;
+}
+
+.feature-inner h4{
+	font-size: 20px;
+    line-height: 1.2em;
+}
+
+.feature-inner p{
+	font-size: 13px;
+    line-height: 1.7em;
+}
+
+.footer p{
+
+font-size: 13px;
+    line-height: 1.7em;
+}
+
+
+
+	/*css end*/
+
+
+
+}
